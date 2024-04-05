@@ -1,2 +1,2 @@
-# dio-backend-java
+# bootcamp santander 2024 - backend com java
 repositório para acompanhar meus estudos e compartilhar meus projetos referentes ao bootcamp santander 2024 - backend com java da DIO!
