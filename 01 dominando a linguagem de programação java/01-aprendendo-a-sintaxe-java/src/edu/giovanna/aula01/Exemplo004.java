@@ -1,5 +1,7 @@
+package edu.giovanna.aula01;
+
 public class Exemplo004 {
-    public static void main (String[] args) {
+    public static void main (String [] args) {
         String primeiroNome = "Giovanna";
         String segundoNome = "Rodrigues";
 
